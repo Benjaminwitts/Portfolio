@@ -48,3 +48,8 @@ section article {
   padding: 10px;
   background: white;
 }
+
+footer {
+  clear: left;
+  color: grey;
+}
